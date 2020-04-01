@@ -25,6 +25,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Tracetogether: A contact tracing app](https://www.gov.sg/article/help-speed-up-contact-tracing-with-tracetogether)
 * [ZDNet: Privacy & mobile data sharing in Europe](https://www.zdnet.com/article/coronavirus-they-want-to-use-your-location-data-to-fight-pandemic-thats-a-big-privacy-issue/)
 * [TU Dresden + TU Berlin: Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org/)
+* [Paper: Anonymous Colocation Discovery: Taming the Coronavirus While Preserving Privacy](https://arxiv.org/abs/2003.13670v1)
 * [TheIntercept: Zoom is not secure](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)
 
 ### Economy
