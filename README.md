@@ -40,6 +40,8 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 ### Politics
 * [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [Obligatory mass-vaccinations?](https://hpd.de/artikel/coronavirus-masern-und-grundrechte-17814)
+* [Grundgesetz und Corona](https://freiheitsrechte.org/corona-und-grundrechte/)
+* [Opposition kritisiert Regierung: "Mit Grundgesetz nicht vereinbar"](https://www.t-online.de/nachrichten/deutschland/id_87573864/coronavirus-kritik-an-bundesregierung-mit-grundgesetz-nicht-vereinbar-.html)
 
 ### Careers & Jobs
 * [Tips on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
@@ -57,6 +59,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Sachsen.de](https://www.coronavirus.sachsen.de/infektionsfaelle-in-sachsen-4151.html)
 * [RKI - Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
 * [Corona dashboard livestream](https://www.youtube.com/watch?v=qgylp3Td1Bw)
+* https://www.dresden.de/en/city/corona_en.php
 
 ### Hotlines and local help
 * https://teamsachsen.de/start/startseite/
