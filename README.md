@@ -53,6 +53,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Biomed sanity: Index of Corona research papers](http://biomed-sanity.com/)
 * [Coronavirus: Datasets and ongoing projects](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
+* [The Coronavirus Explained & What You Should Do](https://www.youtube.com/watch?v=BtN-goy9VOY)
 
 ### Dashboards & Statistics
 * [Coronavirus - Zahlen und Fakten vom Robert-Koch-Institut + Q&A](https://www.youtube.com/watch?v=QJ3aU6KuXc8)
