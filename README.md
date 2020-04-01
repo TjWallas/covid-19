@@ -37,11 +37,12 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [focus.de: Pausing rent and mortgage payments](https://www.focus.de/immobilien/wohnen/wenn-das-geld-ausgeht-kuendigungsschutz-pausieren-von-krediten-diese-hilfen-gibts-fuer-vermieter-und-mieter_id_11813817.html)
 * [How-to: Financial benefits for German workers and companies](https://www.gruenderszene.de/business/coronavirus-staatliche-hilfe-unternehmen-selbststaendige-startups)
 
-### Politics
+### Politics & Law
 * [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [Obligatory mass-vaccinations?](https://hpd.de/artikel/coronavirus-masern-und-grundrechte-17814)
 * [Grundgesetz und Corona](https://freiheitsrechte.org/corona-und-grundrechte/)
 * [Opposition kritisiert Regierung: "Mit Grundgesetz nicht vereinbar"](https://www.t-online.de/nachrichten/deutschland/id_87573864/coronavirus-kritik-an-bundesregierung-mit-grundgesetz-nicht-vereinbar-.html)
+* [Rechtsanwalt: Coronavirus FAQ](https://www.wbs-law.de/arbeitsrecht/coronavirus-covid-19-47541/)
 
 ### Careers & Jobs
 * [Tips on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
