@@ -82,7 +82,7 @@ TODO
 TODO
 
 ### Alternative news
-* [KenFM](https://www.youtube.com/user/wwwKenFMde/videos)
+* [KenFM](https://www.youtube.com/user/wwwKenFMde)
 * [Y-Kollektiv](https://www.youtube.com/channel/UCLoWcRy-ZjA-Erh0p_VDLjQ/videos)
 * [Der Fehlende Part](https://www.youtube.com/channel/UCp9ci2cnPMUfDnmjEJeEUYQ/videos)
 * [Diem25](https://www.youtube.com/channel/UCnMk-6Brd8rVEKWSWkwsWUg/videos)
