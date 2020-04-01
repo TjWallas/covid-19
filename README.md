@@ -3,6 +3,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 
 ### Grants and funding
 * [European Commission: Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)
+* [Coronavirus: Was tut das BMBF?](https://www.bmbf.de/de/corona-krise-achtsamkeit-ja-alarmismus-nein-11069.html)
 
 ### Online conferences and hackathons
 * http://wirvsvirushackathon.org/
@@ -47,6 +48,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 ### Careers & Jobs
 * [Tips on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
 * [KIT University: Remote work toolkit](https://www.kompetenzzentrum-usability.digital/angebote/demonstratoren/social-distancing-social-awareness/erste-hilfe-kit-fuer-erfolgreiches-verteiltes-arbeiten)
+* * [Studentenwerk Dresden - (Psychology) Tipps gegen Corona-Frust](https://www.studentenwerk-dresden.de/english/wirueberuns/newsartikel-4697.html)
 
 ### Natural Sciences & Medicine
 * [MIT: Opensource ventilator design](https://e-vent.mit.edu/)
@@ -54,6 +56,11 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Coronavirus: Datasets and ongoing projects](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
 * [The Coronavirus Explained & What You Should Do](https://www.youtube.com/watch?v=BtN-goy9VOY)
+* [Risikokommunikation und Risikowahrnehmung in Corona-Zeiten: Wissenschaftler*innen der TU Berlin führen eine aktuelle Studie durch](https://www.pressestelle.tu-berlin.de/menue/tub_medien/publikationen/medieninformationen/2020/maerz_2020/medieninformation_nr_492020/)
+* [Impfstoffe zum Schutz vor Covid-19, der neuen Coronavirus-Infektion](https://www.vfa.de/de/arzneimittel-forschung/woran-wir-forschen/impfstoffe-zum-schutz-vor-coronavirus-2019-ncov)
+* [Therapeutische Medikamente gegen die Coronavirusinfektion Covid-19](https://www.vfa.de/de/arzneimittel-forschung/woran-wir-forschen/therapeutische-medikamente-gegen-die-coronavirusinfektion-covid-19)
+* [Tipps zum Umgang mit Fake News zu Corona](https://www.bmbf.de/de/so-gehen-sie-richtig-mit-fake-news-zu-corona-um-11226.html)
+* [Coronavirus-Forscher im DZIF nutzen die „Überholspur“](https://www.dzif.de/de/coronavirus-forscher-im-dzif-nutzen-die-ueberholspur)
 
 ### Dashboards & Statistics
 * [Coronavirus - Zahlen und Fakten vom Robert-Koch-Institut + Q&A](https://www.youtube.com/watch?v=QJ3aU6KuXc8)
@@ -62,6 +69,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [RKI - Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
 * [Corona dashboard livestream](https://www.youtube.com/watch?v=qgylp3Td1Bw)
 * https://www.dresden.de/en/city/corona_en.php
+* [bmbf.de - Linkliste: Diesen Quellen können Sie in der Corona-Krise trauen](https://www.bmbf.de/de/linkliste-diesen-quellen-koennen-sie-in-der-corona-krise-trauen-11260.html)
 
 ### Hotlines and local help
 * https://teamsachsen.de/start/startseite/
@@ -79,7 +87,11 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 TODO
 
 ### Education
-TODO
+* [TU Dresden Corona Ticker](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2/tud-corona-ticker?set_language=en)
+* [TU Dresden - Consulting for Internationals](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2/beratungsangebote-zu-covid-19)
+* [Studentenwerk Dresden - Dorms, Financing, and FAQ](https://www.studentenwerk-dresden.de/english/wirueberuns/newsartikel-4680.html)
+* [Student jobs](https://stav-dresden.de/joblist/)
+* [DAAD / EU: Information on the Corona virus - as of 30/03/2020](https://www.daad.de/en/coronavirus/)
 
 ### Alternative news
 * [KenFM](https://www.youtube.com/user/wwwKenFMde)
