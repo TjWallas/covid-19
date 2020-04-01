@@ -85,7 +85,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [/r/preppers wiki](https://www.reddit.com/r/preppers/wiki/index)
 
 ### Social media groups
-TODO
+* https://github.com/soroushchehresa/awesome-coronavirus#social
 
 ### Education
 * [TU Dresden Corona Ticker](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2/tud-corona-ticker?set_language=en)
