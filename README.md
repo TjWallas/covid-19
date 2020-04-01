@@ -48,6 +48,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 
 ### Careers & Jobs
 * [Tips & Tools on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
+* [Hardvard: The New Rules for Remote Work: Pandemic Edition](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition)
 * [KIT University: Remote work toolkit](https://www.kompetenzzentrum-usability.digital/angebote/demonstratoren/social-distancing-social-awareness/erste-hilfe-kit-fuer-erfolgreiches-verteiltes-arbeiten)
 * [Studentenwerk Dresden - (Psychology) Tipps gegen Corona-Frust](https://www.studentenwerk-dresden.de/english/wirueberuns/newsartikel-4697.html)
 
