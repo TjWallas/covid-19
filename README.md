@@ -71,7 +71,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * http://nebenan.de/corona
 
 ### Prepping & Survival
-* https://survivalmanual.github.io/
+* [Survival manual](https://github.com/ligi/SurvivalManual/wiki)
 * [Einfaches Brot ohne Hefe backen](https://www.youtube.com/watch?v=flC1WaQ1CHw)
 * [/r/preppers wiki](https://www.reddit.com/r/preppers/wiki/index)
 
