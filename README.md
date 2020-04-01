@@ -68,9 +68,9 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 ### Prepping & Survival
 * https://survivalmanual.github.io/
 * [Einfaches Brot ohne Hefe backen](https://www.youtube.com/watch?v=flC1WaQ1CHw)
-* TODO
+* [/r/preppers wiki](https://www.reddit.com/r/preppers/wiki/index)
 
-### Social media help groups
+### Social media groups
 TODO
 
 ### Education
@@ -80,6 +80,7 @@ TODO
 * [KenFM](https://www.youtube.com/user/wwwKenFMde)
 * [Y-Kollektiv](https://www.youtube.com/channel/UCLoWcRy-ZjA-Erh0p_VDLjQ/videos)
 * [Der Fehlende Part](https://www.youtube.com/channel/UCp9ci2cnPMUfDnmjEJeEUYQ)
+* [Diem25](https://www.youtube.com/channel/UCnMk-6Brd8rVEKWSWkwsWUg)
 
 ### Art & Music
 * [Scooter - I want you to stream LIVE](https://www.youtube.com/watch?v=d1pj9Vmn-q4)
