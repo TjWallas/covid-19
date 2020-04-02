@@ -110,3 +110,4 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Green - Klopapier](https://www.youtube.com/watch?v=80JWp3ID438)
 * [die ärzte – Ein Lied für Jetzt (offizielles Video)](https://www.youtube.com/watch?v=t_s6waEUTbI)
 * [Frei.Wild - Corona Weltuntergang (Offizielles Video)](https://www.youtube.com/watch?v=5ajeNfuOXjE)
+* [Dresden - Alberplatz: Sicherheit geht vor](https://www.reddit.com/r/dresden/comments/fomasf/sicherheit_geht_vor/)
