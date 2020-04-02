@@ -28,6 +28,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [TU Dresden + TU Berlin: Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org/)
 * [Paper: Anonymous Colocation Discovery: Taming the Coronavirus While Preserving Privacy](https://arxiv.org/abs/2003.13670v1)
 * [TheIntercept: Zoom is not secure](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)
+* [Zoom allows anyone to intercept your call and access your webcam in a stealthy way](https://objective-see.com/blog/blog_0x56.html)
 
 ### Economy
 * [Nassim Taleb: Corporate Socialism: The Government is Bailing Out Investors & Managers Not You](https://medium.com/incerto/corporate-socialism-the-government-is-bailing-out-investors-managers-not-you-3b31a67bff4a)
