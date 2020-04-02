@@ -88,6 +88,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 
 ### Social media groups
 * https://github.com/soroushchehresa/awesome-coronavirus#social
+* [/r/de corona wiki](https://www.reddit.com/r/de/wiki/corona-links)
 
 ### Education
 * [TU Dresden Corona Ticker](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2/tud-corona-ticker?set_language=en)
