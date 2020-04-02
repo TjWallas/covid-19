@@ -57,6 +57,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Leave no one behind: Petition to protect refugees on the Greek borders](https://leavenoonebehind2020.org/)
 * [Aufregung um NATO-Übung: DEFENDER 2020](https://www.youtube.com/watch?v=YtRyVbHCVG0)
 * [EFF: The EARN IT acts violates the U.S. constitution](https://www.eff.org/deeplinks/2020/03/earn-it-act-violates-constitution)
+* [The UK and EU brace for a Brexit problem they didn’t anticipate](https://qz.com/1821343/will-the-brexit-transition-period-be-extended-due-to-coronavirus/)
 
 ### Careers & Jobs
 * [Tips & Tools on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
