@@ -4,6 +4,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 ### Grants and funding
 * [European Commission: Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)
 * [Coronavirus: Was tut das BMBF?](https://www.bmbf.de/de/corona-krise-achtsamkeit-ja-alarmismus-nein-11069.html)
+* [Berlin University Alliance: Neue Verbundforschung zum Coronavirus](https://berlin-university-alliance.de/news/items/2020/20200402-pre-exploration-project-corona.html)
 
 ### Online conferences and hackathons
 * http://wirvsvirushackathon.org/
