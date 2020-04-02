@@ -19,6 +19,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * https://corona-einkauf.de/
 * http://nebenan.de/corona
 * https://airtable.com/shrs71ccUVKyvLlUA/tbl6Br4W3IyPGk1jt/viw7AlEju6qFtXJqL?blocks=hide
+* [Stanford: How to decontaminate N95 masks in hospitals](https://www.n95decon.org/)
 
 ### Infosec & Privacy
 * [Deutsche Telekom gives away mobile user data](https://www.sueddeutsche.de/digital/coronavirus-telekom-smartphone-tracking-datenschutz-1.4850094)
