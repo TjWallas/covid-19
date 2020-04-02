@@ -9,6 +9,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * http://wirvsvirushackathon.org/
 * https://hackthecrisis.citylab-berlin.org/
 * https://smart-systems-hub.de/digitaler-thingkathon/
+* https://covid19challenge.mit.edu/
 
 ### IT Platforms & Startups
 * [Gründer von Happypo: „Wir haben unseren Umsatz wegen Corona versiebenfacht“](https://www.gruenderszene.de/business/gruender-von-happypo-wir-haben-unseren-umsatz-versiebenfacht)
