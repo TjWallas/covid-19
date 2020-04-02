@@ -50,6 +50,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 ### Politics & Law
 * [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [Obligatory mass-vaccinations?](https://hpd.de/artikel/coronavirus-masern-und-grundrechte-17814)
+* [Nach Impfpflicht-Einführung: Ein Kläger spricht!](https://www.youtube.com/watch?v=6TQ0d0I9yZY)
 * [Grundgesetz und Corona](https://freiheitsrechte.org/corona-und-grundrechte/)
 * [Opposition kritisiert Regierung: "Mit Grundgesetz nicht vereinbar"](https://www.t-online.de/nachrichten/deutschland/id_87573864/coronavirus-kritik-an-bundesregierung-mit-grundgesetz-nicht-vereinbar-.html)
 * [Rechtsanwalt: Coronavirus FAQ](https://www.wbs-law.de/arbeitsrecht/coronavirus-covid-19-47541/)
