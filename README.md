@@ -49,6 +49,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Grundgesetz und Corona](https://freiheitsrechte.org/corona-und-grundrechte/)
 * [Opposition kritisiert Regierung: "Mit Grundgesetz nicht vereinbar"](https://www.t-online.de/nachrichten/deutschland/id_87573864/coronavirus-kritik-an-bundesregierung-mit-grundgesetz-nicht-vereinbar-.html)
 * [Rechtsanwalt: Coronavirus FAQ](https://www.wbs-law.de/arbeitsrecht/coronavirus-covid-19-47541/)
+* [‘Dictatorships often start in the face of a threat’: UN privacy chief warns against long-lasting theft of freedoms amid coronavirus surveillance](https://www.independent.co.uk/news/world/coronavirus-lockdown-surveillance-tracking-dictatorship-authoritarian-united-nations-privacy-a9438561.html)
 
 ### Careers & Jobs
 * [Tips & Tools on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
