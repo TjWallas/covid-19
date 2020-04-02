@@ -66,6 +66,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Coronavirus: Datasets and ongoing projects](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
 * [The Coronavirus Explained & What You Should Do](https://www.youtube.com/watch?v=BtN-goy9VOY)
+* [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 * [Risikokommunikation und Risikowahrnehmung in Corona-Zeiten: Wissenschaftler*innen der TU Berlin führen eine aktuelle Studie durch](https://www.pressestelle.tu-berlin.de/menue/tub_medien/publikationen/medieninformationen/2020/maerz_2020/medieninformation_nr_492020/)
 * [Impfstoffe zum Schutz vor Covid-19, der neuen Coronavirus-Infektion](https://www.vfa.de/de/arzneimittel-forschung/woran-wir-forschen/impfstoffe-zum-schutz-vor-coronavirus-2019-ncov)
 * [Therapeutische Medikamente gegen die Coronavirusinfektion Covid-19](https://www.vfa.de/de/arzneimittel-forschung/woran-wir-forschen/therapeutische-medikamente-gegen-die-coronavirusinfektion-covid-19)
