@@ -14,6 +14,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Gründer von Happypo: „Wir haben unseren Umsatz wegen Corona versiebenfacht“](https://www.gruenderszene.de/business/gruender-von-happypo-wir-haben-unseren-umsatz-versiebenfacht)
 * http://www.maskefuerdich.de
 * https://www.quarantaenehelden.org/
+* https://corona-einkauf.de/
 * http://nebenan.de/corona
 * https://airtable.com/shrs71ccUVKyvLlUA/tbl6Br4W3IyPGk1jt/viw7AlEju6qFtXJqL?blocks=hide
 
@@ -89,6 +90,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 ### Social media groups
 * https://github.com/soroushchehresa/awesome-coronavirus#social
 * [/r/de corona wiki](https://www.reddit.com/r/de/wiki/corona-links)
+* [/r/dresden megathread](https://www.reddit.com/r/dresden/comments/fkc9v9/coronahilfe_einkauf_u%C3%A4/)
 
 ### Education
 * [TU Dresden Corona Ticker](https://tu-dresden.de/tu-dresden/gesundheitsmanagement/information-regarding-covid-19-coronavirus-sars-cov-2/tud-corona-ticker?set_language=en)
