@@ -56,6 +56,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [‘Dictatorships often start in the face of a threat’: UN privacy chief warns against long-lasting theft of freedoms amid coronavirus surveillance](https://www.independent.co.uk/news/world/coronavirus-lockdown-surveillance-tracking-dictatorship-authoritarian-united-nations-privacy-a9438561.html)
 * [Leave no one behind: Petition to protect refugees on the Greek borders](https://leavenoonebehind2020.org/)
 * [Aufregung um NATO-Übung: DEFENDER 2020](https://www.youtube.com/watch?v=YtRyVbHCVG0)
+* [EFF: The EARN IT acts violates the U.S. constitution](https://www.eff.org/deeplinks/2020/03/earn-it-act-violates-constitution)
 
 ### Careers & Jobs
 * [Tips & Tools on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
