@@ -12,6 +12,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * https://smart-systems-hub.de/digitaler-thingkathon/
 * https://covid19challenge.mit.edu/
 * https://www.hackthecrisis.se/
+* [Stanford: COVID-19 and Corona](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 ### IT Platforms & Startups
 * [Gründer von Happypo: „Wir haben unseren Umsatz wegen Corona versiebenfacht“](https://www.gruenderszene.de/business/gruender-von-happypo-wir-haben-unseren-umsatz-versiebenfacht)
