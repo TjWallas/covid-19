@@ -121,6 +121,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Diem25](https://www.youtube.com/channel/UCnMk-6Brd8rVEKWSWkwsWUg/videos)
 
 ### Art & Music
+* [Live-stream orchestra from Rotterdam Phil-harmony](https://www.youtube.com/watch?v=3eXT60rbBVk)
 * [Scooter - I want you to stream LIVE](https://www.youtube.com/watch?v=d1pj9Vmn-q4)
 * [Green - Klopapier](https://www.youtube.com/watch?v=80JWp3ID438)
 * [die ärzte – Ein Lied für Jetzt (offizielles Video)](https://www.youtube.com/watch?v=t_s6waEUTbI)
