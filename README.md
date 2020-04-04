@@ -119,6 +119,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [DAAD / EU: Information on the Corona virus - as of 30/03/2020](https://www.daad.de/en/coronavirus/)
 
 ### Alternative news
+* [Die Corona-Verschwörung? Fundierte Kritik vs. Falschmeldungen](https://www.youtube.com/watch?v=-NLUWZqGpyc)
 * [Falschinformationen zur Corona-Pandemie](https://www.youtube.com/watch?v=t0im4ctSCTQ)
 * [KenFM](https://www.youtube.com/user/wwwKenFMde)
 * [Y-Kollektiv](https://www.youtube.com/channel/UCLoWcRy-ZjA-Erh0p_VDLjQ/videos)
