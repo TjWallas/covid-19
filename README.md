@@ -70,6 +70,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Hardvard: The New Rules for Remote Work: Pandemic Edition](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition)
 * [KIT University: Remote work toolkit](https://www.kompetenzzentrum-usability.digital/angebote/demonstratoren/social-distancing-social-awareness/erste-hilfe-kit-fuer-erfolgreiches-verteiltes-arbeiten)
 * [Studentenwerk Dresden - (Psychology) Tipps gegen Corona-Frust](https://www.studentenwerk-dresden.de/english/wirueberuns/newsartikel-4697.html)
+* [Surviving Screens and Social Media in Isolation](https://www.gq.com/story/cal-newport-screen-time-coronavirus)
 
 ### Natural Sciences & Medicine
 * [MIT: Opensource ventilator design](https://e-vent.mit.edu/)
