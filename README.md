@@ -20,6 +20,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * http://www.maskefuerdich.de
 * https://www.quarantaenehelden.org/
 * https://corona-einkauf.de/
+* https://dresdner-laeden.de
 * http://nebenan.de/corona
 * https://airtable.com/shrs71ccUVKyvLlUA/tbl6Br4W3IyPGk1jt/viw7AlEju6qFtXJqL?blocks=hide
 * [Stanford: How to decontaminate N95 masks in hospitals](https://www.n95decon.org/)
