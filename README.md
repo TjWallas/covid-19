@@ -123,6 +123,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Studentenwerk Dresden - Dorms, Financing, and FAQ](https://www.studentenwerk-dresden.de/english/wirueberuns/newsartikel-4680.html)
 * [Student jobs](https://stav-dresden.de/joblist/)
 * [DAAD / EU: Information on the Corona virus - as of 30/03/2020](https://www.daad.de/en/coronavirus/)
+* [DW: Coronavirus: Is the EU's Erasmus program under threat?](https://www.dw.com/en/coronavirus-is-the-eus-erasmus-program-under-threat/a-53019986)
 
 ### Alternative news
 * [Die Corona-Verschwörung? Fundierte Kritik vs. Falschmeldungen](https://www.youtube.com/watch?v=-NLUWZqGpyc)
