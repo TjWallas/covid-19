@@ -106,6 +106,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [/r/preppers wiki](https://www.reddit.com/r/preppers/wiki/index)
 * [Survival-Experte Daniel Schäfer: So bereitet man sich auf den Ernstfall vor](https://www.youtube.com/watch?v=m8coD2A9i4w)
 * [Sweden civil emergency preparedness booklet [pdf]](https://www.dinsakerhet.se/siteassets/dinsakerhet.se/broschyren-om-krisen-eller-kriget-kommer/om-krisen-eller-kriget-kommer---engelska.pdf)
+* [Überleben im Notfall: Diese Essensvorräte sind Pflicht | Galileo | ProSieben](https://www.youtube.com/watch?v=OPBx6FWLfq8)
 
 ### Social media groups
 * https://github.com/soroushchehresa/awesome-coronavirus#social
