@@ -109,6 +109,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Überleben im Notfall: Diese Essensvorräte sind Pflicht | Galileo | ProSieben](https://www.youtube.com/watch?v=OPBx6FWLfq8)
 * https://www.hamsterkaufliste.de/
 * https://www.bbk.bund.de/DE/Service/Publikationen/Broschuerenfaltblaetter/Ratgeber_node.html
+* https://www.bbk.bund.de/DE/Ratgeber/VorsorgefuerdenKat-fall/Checkliste/Checkliste.html
 
 ### Social media groups
 * https://github.com/soroushchehresa/awesome-coronavirus#social
