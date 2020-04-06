@@ -107,6 +107,8 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Survival-Experte Daniel Schäfer: So bereitet man sich auf den Ernstfall vor](https://www.youtube.com/watch?v=m8coD2A9i4w)
 * [Sweden civil emergency preparedness booklet [pdf]](https://www.dinsakerhet.se/siteassets/dinsakerhet.se/broschyren-om-krisen-eller-kriget-kommer/om-krisen-eller-kriget-kommer---engelska.pdf)
 * [Überleben im Notfall: Diese Essensvorräte sind Pflicht | Galileo | ProSieben](https://www.youtube.com/watch?v=OPBx6FWLfq8)
+* https://www.hamsterkaufliste.de/
+* https://www.bbk.bund.de/DE/Service/Publikationen/Broschuerenfaltblaetter/Ratgeber_node.html
 
 ### Social media groups
 * https://github.com/soroushchehresa/awesome-coronavirus#social
