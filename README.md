@@ -36,6 +36,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Paper: Anonymous Colocation Discovery: Taming the Coronavirus While Preserving Privacy](https://arxiv.org/abs/2003.13670v1)
 * [TheIntercept: Zoom is not secure](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)
 * [Zoom allows anyone to intercept your call and access your webcam in a stealthy way](https://objective-see.com/blog/blog_0x56.html)
+* [Google uses location data to show which places are complying with stay-at-home orders — and which aren’t](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy)
 
 ### Economy
 * [Nassim Taleb: Corporate Socialism: The Government is Bailing Out Investors & Managers Not You](https://medium.com/incerto/corporate-socialism-the-government-is-bailing-out-investors-managers-not-you-3b31a67bff4a)
