@@ -8,6 +8,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 
 ### Online conferences and hackathons
 * http://wirvsvirushackathon.org/
+* https://euvsvirus.org/
 * https://hackthecrisis.citylab-berlin.org/
 * https://land-der-ideen.de/wettbewerbe/beyond-crisis
 * https://smart-systems-hub.de/digitaler-thingkathon/
