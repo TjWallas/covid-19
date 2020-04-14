@@ -35,6 +35,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [VICE: Shelter in Place with Shane Smith & Edward Snowden (Full Episode)](https://www.youtube.com/watch?v=k5OAjnveyJo&t=0s)
 * [Netzpolitik: User privacy above all: what that means for a contact tracing app](https://netzpolitik.org/2020/corona-tracking-datenschutz-kein-notwendiger-widerspruch)
 * [CCC: 10 requirements for the evaluation of "Contact Tracing" apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements)
+* [CCC Joint civil society statement: States use of digital surveillance technologies to fight pandemic must respect human rights](https://www.ccc.de/en/updates/2020/pandemie-menschenrechte)
 * [Tracetogether: A contact tracing app](https://www.gov.sg/article/help-speed-up-contact-tracing-with-tracetogether)
 * [ZDNet: Privacy & mobile data sharing in Europe](https://www.zdnet.com/article/coronavirus-they-want-to-use-your-location-data-to-fight-pandemic-thats-a-big-privacy-issue/)
 * [TU Dresden + TU Berlin: Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org/)
