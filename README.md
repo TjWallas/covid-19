@@ -32,6 +32,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [InfoSec Research community against selling user data because of Corona](https://www.eaid-berlin.de/appell-der-europaeischen-akademie-fuer-informationsfreiheit-und-datenschutz-corona-pandemie-bekaempfen-buergerrechte-und-datenschutz-wahren/)
 * [Oxford University: A contract tracing mobile app could help](http://www.ox.ac.uk/news/2020-03-17-infectious-disease-experts-provide-evidence-coronavirus-mobile-app-instant-contact)
 * [Cambridge University: Contact-tracing apps - Security and Privacy](https://www.lightbluetouchpaper.org/2020/04/12/contact-tracing-in-the-real-world/)
+* [VICE: Shelter in Place with Shane Smith & Edward Snowden (Full Episode)](https://www.youtube.com/watch?v=k5OAjnveyJo&t=0s)
 * [Netzpolitik: User privacy above all: what that means for a contact tracing app](https://netzpolitik.org/2020/corona-tracking-datenschutz-kein-notwendiger-widerspruch)
 * [CCC: 10 requirements for the evaluation of "Contact Tracing" apps](https://www.ccc.de/en/updates/2020/contact-tracing-requirements)
 * [Tracetogether: A contact tracing app](https://www.gov.sg/article/help-speed-up-contact-tracing-with-tracetogether)
