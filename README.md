@@ -29,6 +29,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 
 ### Infosec & Privacy
 * [Deutsche Telekom gives away mobile user data](https://www.sueddeutsche.de/digital/coronavirus-telekom-smartphone-tracking-datenschutz-1.4850094)
+* [Contact tracing app: Wissenschaftler warnen vor "beispielloser Überwachung"](https://www.zeit.de/digital/datenschutz/2020-04/corona-app-initiative-pepp-pt-datenschutz-warnung-forscher)
 * [InfoSec Research community against selling user data because of Corona](https://www.eaid-berlin.de/appell-der-europaeischen-akademie-fuer-informationsfreiheit-und-datenschutz-corona-pandemie-bekaempfen-buergerrechte-und-datenschutz-wahren/)
 * [Oxford University: A contract tracing mobile app could help](http://www.ox.ac.uk/news/2020-03-17-infectious-disease-experts-provide-evidence-coronavirus-mobile-app-instant-contact)
 * [Cambridge University: Contact-tracing apps - Security and Privacy](https://www.lightbluetouchpaper.org/2020/04/12/contact-tracing-in-the-real-world/)
