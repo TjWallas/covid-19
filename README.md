@@ -85,6 +85,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 
 ### Natural Sciences & Medicine
 * [MIT: Opensource ventilator design](https://e-vent.mit.edu/)
+* [Welcher Mundschutz schützt am meisten? Galileo testet! | Galileo | ProSieben](https://www.youtube.com/watch?v=HV735VzDhn8)
 * [Biomed sanity: Index of Corona research papers](http://biomed-sanity.com/)
 * [Coronavirus: Datasets and ongoing projects](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Folding@Home](https://github.com/FoldingAtHome/coronavirus)
