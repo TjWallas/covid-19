@@ -1,7 +1,25 @@
+## Table of Content
+- [Abstract](#abstract)
+  * [Dashboards and Statistics](#dashboards---statistics)
+  * [Hotlines and local help](#hotlines-and-local-help)
+  * [Social media groups](#social-media-groups)
+  * [Prepping and Survival](#prepping---survival)
+  * [Natural Sciences and Medicine](#natural-sciences---medicine)
+  * [Careers and Jobs](#careers---jobs)
+  * [Education](#education)
+  * [Economy](#economy)
+  * [Politics and Law](#politics---law)
+  * [Grants and funding](#grants-and-funding)
+  * [Online conferences and hackathons](#online-conferences-and-hackathons)
+  * [IT Platforms and Startups](#it-platforms---startups)
+  * [Infosec and Privacy](#infosec---privacy)
+  * [Alternative news](#alternative-news)
+  * [Art and Music](#art---music)
+
 ## Abstract
 Note: This article is Germany and Saxony-oriented. You will find a lot of content in German. Nonetheless, there are some general tips and world news in the mix.
 
-### Dashboards & Statistics
+### Dashboards and Statistics
 * [Coronavirus - Zahlen und Fakten vom Robert-Koch-Institut + Q&A](https://www.youtube.com/watch?v=QJ3aU6KuXc8)
 * [Robert-Koch Institute](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
 * [Sachsen.de](https://www.coronavirus.sachsen.de/infektionsfaelle-in-sachsen-4151.html)
@@ -22,7 +40,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [/r/de corona wiki](https://www.reddit.com/r/de/wiki/corona-links)
 * [/r/dresden megathread](https://www.reddit.com/r/dresden/comments/fkc9v9/coronahilfe_einkauf_u%C3%A4/)
 
-### Prepping & Survival
+### Prepping and Survival
 * [Survival manual](https://github.com/ligi/SurvivalManual/wiki)
 * [Einfaches Brot ohne Hefe backen](https://www.youtube.com/watch?v=flC1WaQ1CHw)
 * [/r/preppers wiki](https://www.reddit.com/r/preppers/wiki/index)
@@ -33,7 +51,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * https://www.bbk.bund.de/DE/Service/Publikationen/Broschuerenfaltblaetter/Ratgeber_node.html
 * https://www.bbk.bund.de/DE/Ratgeber/VorsorgefuerdenKat-fall/Checkliste/Checkliste.html
 
-### Natural Sciences & Medicine
+### Natural Sciences and Medicine
 * [MIT: Opensource ventilator design](https://e-vent.mit.edu/)
 * [Welcher Mundschutz schützt am meisten? Galileo testet! | Galileo | ProSieben](https://www.youtube.com/watch?v=HV735VzDhn8)
 * [Biomed sanity: Index of Corona research papers](http://biomed-sanity.com/)
@@ -47,7 +65,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Tipps zum Umgang mit Fake News zu Corona](https://www.bmbf.de/de/so-gehen-sie-richtig-mit-fake-news-zu-corona-um-11226.html)
 * [Coronavirus-Forscher im DZIF nutzen die „Überholspur“](https://www.dzif.de/de/coronavirus-forscher-im-dzif-nutzen-die-ueberholspur)
 
-### Careers & Jobs
+### Careers and Jobs
 * [Tips & Tools on remaining productive while remotely working from home](https://gist.github.com/TjWallas/714e2a620fb624a48665b93d542df2b4)
 * [Hardvard: The New Rules for Remote Work: Pandemic Edition](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition)
 * [KIT University: Remote work toolkit](https://www.kompetenzzentrum-usability.digital/angebote/demonstratoren/social-distancing-social-awareness/erste-hilfe-kit-fuer-erfolgreiches-verteiltes-arbeiten)
@@ -79,7 +97,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [EU factsheet: Funds and responses to Corona](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_582)
 * [Zeit.de: Europa kann nur weiterleben, wenn die Europäer jetzt füreinander einstehen](https://www.zeit.de/2020/15/europa-kann-nur-weiterleben-wenn-die-europaeer-jetzt-fuereinander-einstehen)
 
-### Politics & Law
+### Politics and Law
 * [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 * [Obligatory mass-vaccinations?](https://hpd.de/artikel/coronavirus-masern-und-grundrechte-17814)
 * [Nach Impfpflicht-Einführung: Ein Kläger spricht!](https://www.youtube.com/watch?v=6TQ0d0I9yZY)
@@ -109,7 +127,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * https://developer.ibm.com/callforcode/
 * [Stanford: COVID-19 and Corona](https://www.youtube.com/watch?v=z4105Exe23Q)
 
-### IT Platforms & Startups
+### IT Platforms and Startups
 * [Gründer von Happypo: „Wir haben unseren Umsatz wegen Corona versiebenfacht“](https://www.gruenderszene.de/business/gruender-von-happypo-wir-haben-unseren-umsatz-versiebenfacht)
 * http://www.maskefuerdich.de
 * https://www.quarantaenehelden.org/
@@ -119,7 +137,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * https://airtable.com/shrs71ccUVKyvLlUA/tbl6Br4W3IyPGk1jt/viw7AlEju6qFtXJqL?blocks=hide
 * [Stanford: How to decontaminate N95 masks in hospitals](https://www.n95decon.org/)
 
-### Infosec & Privacy
+### Infosec and Privacy
 * [Deutsche Telekom gives away mobile user data](https://www.sueddeutsche.de/digital/coronavirus-telekom-smartphone-tracking-datenschutz-1.4850094)
 * [Contact tracing app: Wissenschaftler warnen vor "beispielloser Überwachung"](https://www.zeit.de/digital/datenschutz/2020-04/corona-app-initiative-pepp-pt-datenschutz-warnung-forscher)
 * [InfoSec Research community against selling user data because of Corona](https://www.eaid-berlin.de/appell-der-europaeischen-akademie-fuer-informationsfreiheit-und-datenschutz-corona-pandemie-bekaempfen-buergerrechte-und-datenschutz-wahren/)
@@ -147,7 +165,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Diem25](https://www.youtube.com/channel/UCnMk-6Brd8rVEKWSWkwsWUg/videos)
 * [Event 201](http://www.centerforhealthsecurity.org/event201/)
 
-### Art & Music
+### Art and Music
 * [Live-stream orchestra from Rotterdam Phil-harmony](https://www.youtube.com/watch?v=3eXT60rbBVk)
 * [Antoine Burtz feat. Teddy Teclebrhan - Deutschland isch stabil (Official Music Video)](https://www.youtube.com/watch?v=QISxkpwvhjE)
 * [Scooter - I want you to stream LIVE](https://www.youtube.com/watch?v=d1pj9Vmn-q4)
