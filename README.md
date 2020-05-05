@@ -82,6 +82,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [KIT University: Remote work toolkit](https://www.kompetenzzentrum-usability.digital/angebote/demonstratoren/social-distancing-social-awareness/erste-hilfe-kit-fuer-erfolgreiches-verteiltes-arbeiten)
 * [Studentenwerk Dresden - (Psychology) Tipps gegen Corona-Frust](https://www.studentenwerk-dresden.de/english/wirueberuns/newsartikel-4697.html)
 * [Surviving Screens and Social Media in Isolation](https://www.gq.com/story/cal-newport-screen-time-coronavirus)
+* [Yale: The Science of well-being](https://www.coursera.org/learn/the-science-of-well-being)
 
 ### Natural Sciences & Medicine
 * [MIT: Opensource ventilator design](https://e-vent.mit.edu/)
