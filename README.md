@@ -1,20 +1,20 @@
 ## Table of Content
 - [Abstract](#abstract)
-  * [Dashboards and Statistics](#dashboards---statistics)
+  * [Dashboards and Statistics](#dashboards-and-statistics)
   * [Hotlines and local help](#hotlines-and-local-help)
   * [Social media groups](#social-media-groups)
-  * [Prepping and Survival](#prepping---survival)
-  * [Natural Sciences and Medicine](#natural-sciences---medicine)
-  * [Careers and Jobs](#careers---jobs)
+  * [Prepping and Survival](#prepping-and-survival)
+  * [Natural Sciences and Medicine](#natural-sciences-and-medicine)
+  * [Careers and Jobs](#careers-and-jobs)
   * [Education](#education)
   * [Economy](#economy)
-  * [Politics and Law](#politics---law)
+  * [Politics and Law](#politics-and-law)
   * [Grants and funding](#grants-and-funding)
   * [Online conferences and hackathons](#online-conferences-and-hackathons)
-  * [IT Platforms and Startups](#it-platforms---startups)
-  * [Infosec and Privacy](#infosec---privacy)
+  * [IT Platforms and Startups](#it-platforms-and-startups)
+  * [Infosec and Privacy](#infosec-and-privacy)
   * [Alternative news](#alternative-news)
-  * [Art and Music](#art---music)
+  * [Art and Music](#art-and-music)
 
 ## Abstract
 Note: This article is Germany and Saxony-oriented. You will find a lot of content in German. Nonetheless, there are some general tips and world news in the mix.
