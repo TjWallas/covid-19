@@ -1,23 +1,22 @@
-## Table of Content
-- [Abstract](#abstract)
-  * [Dashboards and Statistics](#dashboards-and-statistics)
-  * [Hotlines and local help](#hotlines-and-local-help)
-  * [Social media groups](#social-media-groups)
-  * [Prepping and Survival](#prepping-and-survival)
-  * [Natural Sciences and Medicine](#natural-sciences-and-medicine)
-  * [Careers and Jobs](#careers-and-jobs)
-  * [Education](#education)
-  * [Economy](#economy)
-  * [Politics and Law](#politics-and-law)
-  * [Grants and funding](#grants-and-funding)
-  * [Online conferences and hackathons](#online-conferences-and-hackathons)
-  * [IT Platforms and Startups](#it-platforms-and-startups)
-  * [Infosec and Privacy](#infosec-and-privacy)
-  * [Alternative news](#alternative-news)
-  * [Art and Music](#art-and-music)
-
 ## Abstract
 Note: This article is Germany and Saxony-oriented. You will find a lot of content in German. Nonetheless, there are some general tips and world news in the mix.
+
+## Table of Content
+* [Dashboards and Statistics](#dashboards-and-statistics)
+* [Hotlines and local help](#hotlines-and-local-help)
+* [Social media groups](#social-media-groups)
+* [Prepping and Survival](#prepping-and-survival)
+* [Natural Sciences and Medicine](#natural-sciences-and-medicine)
+* [Careers and Jobs](#careers-and-jobs)
+* [Education](#education)
+* [Economy](#economy)
+* [Politics and Law](#politics-and-law)
+* [Grants and funding](#grants-and-funding)
+* [Online conferences and hackathons](#online-conferences-and-hackathons)
+* [IT Platforms and Startups](#it-platforms-and-startups)
+* [Infosec and Privacy](#infosec-and-privacy)
+* [Alternative news](#alternative-news)
+* [Art and Music](#art-and-music)
 
 ### Dashboards and Statistics
 * [Coronavirus - Zahlen und Fakten vom Robert-Koch-Institut + Q&A](https://www.youtube.com/watch?v=QJ3aU6KuXc8)
@@ -173,3 +172,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [die ärzte – Ein Lied für Jetzt (offizielles Video)](https://www.youtube.com/watch?v=t_s6waEUTbI)
 * [Frei.Wild - Corona Weltuntergang (Offizielles Video)](https://www.youtube.com/watch?v=5ajeNfuOXjE)
 * [Dresden - Alberplatz: Sicherheit geht vor](https://www.reddit.com/r/dresden/comments/fomasf/sicherheit_geht_vor/)
+
+### Contributors
+- Tj.Wallas_
+- Christoph
