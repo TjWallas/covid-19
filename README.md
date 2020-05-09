@@ -96,6 +96,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [EU factsheet: Funds and responses to Corona](https://ec.europa.eu/commission/presscorner/detail/en/IP_20_582)
 * [Zeit.de: Europa kann nur weiterleben, wenn die Europäer jetzt füreinander einstehen](https://www.zeit.de/2020/15/europa-kann-nur-weiterleben-wenn-die-europaeer-jetzt-fuereinander-einstehen)
 * [Bundesverfassungsgericht setzt sich über EZB hinweg](https://www.youtube.com/watch?v=SrWo36aqMvg)
+* [Inflation and prices tracker - Statistisches Bundesamt](https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html)
 
 ### Politics and Law
 * [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
