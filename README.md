@@ -133,6 +133,7 @@ Note: This article is Germany and Saxony-oriented. You will find a lot of conten
 * [Gründer von Happypo: „Wir haben unseren Umsatz wegen Corona versiebenfacht“](https://www.gruenderszene.de/business/gruender-von-happypo-wir-haben-unseren-umsatz-versiebenfacht)
 * http://www.maskefuerdich.de
 * https://www.quarantaenehelden.org/
+* https://www.zusammengegencorona.de/
 * https://corona-einkauf.de/
 * https://dresdner-laeden.de
 * http://nebenan.de/corona
